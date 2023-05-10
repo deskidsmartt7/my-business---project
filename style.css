@@ -583,10 +583,12 @@ blogs .box-container .box .content p{
     font-size: 2rem;
     color: var(--black);
     border-top: var(--border);
+
 }
 
 .footer .credit span{
     color: #024C27;
+    font-weight: bold;
 
 }
 
